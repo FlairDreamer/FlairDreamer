@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlairDreamer. I prefer not to give my real name.
+- 👋 Hi, I’m @FlairDreamer.
 - 👀 I’m interested in ...video games, anime.
 - 🌱 I’m currently learning ...to be a Full Stack web developer. 
 
